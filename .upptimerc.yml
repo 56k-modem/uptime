@@ -13,7 +13,7 @@ status-website:
   # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**56k-modem.online** uptime monitor and status page"
+  introTitle: "**56k-modem.online** uptime monitor and status"
   introMessage: " "
   navbar:
     - title: Status
