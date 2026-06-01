@@ -4,16 +4,16 @@
     "url": "https://56k-modem.online",
     "icon": "https://icons.duckduckgo.com/ip3/56k-modem.online.ico",
     "slug": "56k-modem-online",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "76.86%",
-    "uptimeWeek": "77.04%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "99.18%",
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "70.00%",
+    "uptimeWeek": "76.59%",
+    "uptimeMonth": "91.33%",
+    "uptimeYear": "99.16%",
     "time": 450,
-    "timeDay": 265,
-    "timeWeek": 284,
-    "timeMonth": 330,
+    "timeDay": 280,
+    "timeWeek": 292,
+    "timeMonth": 331,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2026-01-22": 21,
@@ -34,7 +34,7 @@
       "2026-05-29": 377,
       "2026-05-30": 284,
       "2026-05-31": 238,
-      "2026-06-01": 175
+      "2026-06-01": 296
     }
   }
 ]
