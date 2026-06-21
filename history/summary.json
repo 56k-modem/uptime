@@ -6,17 +6,16 @@
     "slug": "56k-modem-online",
     "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "79.42%",
-    "uptimeWeek": "69.41%",
-    "uptimeMonth": "80.86%",
+    "uptimeDay": "77.87%",
+    "uptimeWeek": "68.93%",
+    "uptimeMonth": "80.79%",
     "uptimeYear": "98.28%",
     "time": 405,
-    "timeDay": 346,
+    "timeDay": 320,
     "timeWeek": 311,
     "timeMonth": 306,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2026-05-31": 18,
       "2026-06-01": 596,
       "2026-06-02": 437,
       "2026-06-03": 274,
@@ -37,7 +36,7 @@
       "2026-06-18": 172,
       "2026-06-19": 524,
       "2026-06-20": 441,
-      "2026-06-21": 101
+      "2026-06-21": 150
     }
   }
 ]
